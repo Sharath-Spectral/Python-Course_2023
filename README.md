@@ -1,4 +1,4 @@
-# Analysis of transmission electron micrscopy multidimensional data using python library Hyperspy
+# Analysis of transmission electron microscopy multidimensional data using python library Hyperspy
 
 Hyperspy can used for a wide variety of data analysis in transmission electron microsocopy such as Image processing, energy dispersive spectroscopy (EDS),
 electron energy loss spectroscopy (EELS) etc.
